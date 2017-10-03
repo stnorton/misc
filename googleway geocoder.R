@@ -1,7 +1,6 @@
 ############################
 ##Googleway Geocoder      ##
 ##Sean Norton             ##
-##stnorton@live.unc.edu   ##
 ##Last updated: 10/3/2017 ##
 ############################
 
